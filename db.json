@@ -1,0 +1,39 @@
+{
+  "body": [
+    {
+      "name_song": "Attention",
+      "name_singer": "NewJeans",
+      "chorus_start": 62,
+      "chorus_end": 81,
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Attention-8bdb9a3a.mp3"
+    },
+    {
+      "name_song": "Cookie",
+      "name_singer": "NewJeans",
+      "chorus_start": 49,
+      "chorus_end": 73,
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Cookie-99f06cba.mp3"
+    },
+    {
+      "name_song": "Ditto",
+      "name_singer": "NewJeans",
+      "chorus_start": 83,
+      "chorus_end": 114,
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Ditto-6f12ed68.mp3"
+    },
+    {
+      "name_song": "Hype Boy",
+      "name_singer": "NewJeans",
+      "chorus_start": 52,
+      "chorus_end": 90,
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_HypeBoy-2f35e2cd.mp3"
+    },
+    {
+      "name_song": "OMG",
+      "name_singer": "NewJeans",
+      "chorus_start": 43,
+      "chorus_end": 75,
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_OMG-955d2a8c.mp3"
+    }
+  ]
+}
