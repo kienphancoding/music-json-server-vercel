@@ -1,39 +1,114 @@
 {
-  "body": [
+  "NewJeans": [
     {
       "name_song": "Attention",
-      "name_singer": "NewJeans",
-      "chorus_start": 62,
-      "chorus_end": 81,
-      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Attention-8bdb9a3a.mp3"
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Attention-8bdb9a3a.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
     },
     {
       "name_song": "Cookie",
-      "name_singer": "NewJeans",
-      "chorus_start": 49,
-      "chorus_end": 73,
-      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Cookie-99f06cba.mp3"
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Cookie-99f06cba.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
     },
     {
       "name_song": "Ditto",
-      "name_singer": "NewJeans",
-      "chorus_start": 83,
-      "chorus_end": 114,
-      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Ditto-6f12ed68.mp3"
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Ditto-6f12ed68.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
     },
     {
       "name_song": "Hype Boy",
-      "name_singer": "NewJeans",
-      "chorus_start": 52,
-      "chorus_end": 90,
-      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_HypeBoy-2f35e2cd.mp3"
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_HypeBoy-2f35e2cd.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
     },
     {
       "name_song": "OMG",
-      "name_singer": "NewJeans",
-      "chorus_start": 43,
-      "chorus_end": 75,
-      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_OMG-955d2a8c.mp3"
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_OMG-955d2a8c.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
+    },
+    {
+      "name_song": "Hurt",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Hurt-33849c27.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
+    },
+    {
+      "name_song": "Zero",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/NewJeans_Zero-b16396ec.mp3",
+      "image_link": "https://i.pinimg.com/736x/26/7a/96/267a96b46df2dfb7cf13203008103d94.jpg"
+    }
+  ],
+  "IVE": [
+    {
+      "name_song": "After Like",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IVE_AfterLIKE-d984a122.mp3",
+      "image_link": "https://i.pinimg.com/564x/29/ff/25/29ff258cf42e639020b7edd03a9c77e7.jpg"
+    },
+    {
+      "name_song": "Love Dive",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IVE_LoveDive-c8342e79.mp3",
+      "image_link": "https://i.pinimg.com/564x/29/ff/25/29ff258cf42e639020b7edd03a9c77e7.jpg"
+    },
+    {
+      "name_song": "Eleven",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IVE_ELEVEN-7aea1e3b.mp3",
+      "image_link": "https://i.pinimg.com/564x/29/ff/25/29ff258cf42e639020b7edd03a9c77e7.jpg"
+    },
+    {
+      "name_song": "I Am",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IVE_IAM-6bda6357.mp3",
+      "image_link": "https://i.pinimg.com/564x/29/ff/25/29ff258cf42e639020b7edd03a9c77e7.jpg"
+    }
+  ],
+  "SOMI": [
+    {
+      "name_song": "XOXO",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/SOMI_XOXO-5fcd319e.mp3",
+      "image_link": "https://i.pinimg.com/564x/80/4f/64/804f648b90946c023e0948d29014c5b2.jpg"
+    },
+    {
+      "name_song": "Dumb Dumb",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/SOMI_DUMBDUMB-092eab32.mp3",
+      "image_link": "https://i.pinimg.com/564x/80/4f/64/804f648b90946c023e0948d29014c5b2.jpg"
+    }
+  ],
+  "IU": [
+    {
+      "name_song": "Palette",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IU_Palette-2b69d85e.mp3",
+      "image_link": "https://i.pinimg.com/564x/d2/79/42/d27942f3845fe6f5e0e0656f2dddc665.jpg"
+    },
+    {
+      "name_song": "BBIBBI",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IU_BBIBBI-a5d97dcf.mp3",
+      "image_link": "https://i.pinimg.com/564x/52/01/90/5201906f6b64c3d7b2a5c101c3eeb6bf.jpg"
+    },
+    {
+      "name_song": "Celebrity",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/IU_Celebrity-c079e4eb.mp3",
+      "image_link": "https://i.pinimg.com/564x/17/f1/07/17f107d636197cf55c76bf0dc992e10c.jpg"
+    }
+  ],
+  "EXO": [
+    {
+      "name_song": "Love Me Right",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/EXO_LoveMeRight-a85af574.mp3",
+      "image_link": "https://i.pinimg.com/564x/de/a1/25/dea1253a114a801d6fdbafb05e211d37.jpg"
+    },
+    {
+      "name_song": "For You",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/EXO_ForYou-286c5edd.mp3",
+      "image_link": "https://i.pinimg.com/736x/e5/87/44/e587445c67cd69612c0b90dc28e3e4db.jpg"
+    }
+  ],
+  "RedVelvet": [
+    {
+      "name_song": "Psycho",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/RedVelvet_Psycho-fbd62548.mp3",
+      "image_link": "https://i.pinimg.com/564x/50/19/df/5019df7e223178032988c43d1dbc2c53.jpg"
+    },
+    {
+      "name_song": "Bad Boy",
+      "source": "https://sunny-bublanina-7b1207.netlify.app/assets/RedVelvet_BadBoy-c87ea829.mp3",
+      "image_link": "https://i.pinimg.com/564x/0f/5c/01/0f5c01d9e25f61f1f2aa8cccd1a2a909.jpg"
     }
   ]
 }
